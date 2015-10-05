@@ -8,6 +8,11 @@
 	<?php 
 		$pagina = isset($_GET["pagina"]) ? $_GET["pagina"] : "";
 		
+		if (empty($_GET["pagina"])) {
+			include("home.php");
+		}
+		else
+
 		if ($pagina == 1) {
 			include("pagina1.php");
 		}
