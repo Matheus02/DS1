@@ -20,7 +20,15 @@
 			if ($pagina == 2) {
 				include ("pagina2.php");
 			}
+		else
+		if ($pagina == 3) {
+			include("pagina4.php");
+		}
+		else
+			if ($pagina == 4) {
+			include("pagina4.php");
+		}
+		
 	 ?>
-	 teste de commit
 </body>
 </html>
