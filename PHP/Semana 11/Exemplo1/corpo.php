@@ -16,5 +16,6 @@
 				include ("pagina2.php");
 			}
 	 ?>
+	 teste de commit
 </body>
 </html>
