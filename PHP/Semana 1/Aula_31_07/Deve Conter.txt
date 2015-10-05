@@ -1,0 +1,3 @@
+inder.php
+exercicio1.php
+resultado1.php
