@@ -22,7 +22,7 @@
 			}
 		else
 		if ($pagina == 3) {
-			include("pagina4.php");
+			include("pagina3.php");
 		}
 		else
 			if ($pagina == 4) {
